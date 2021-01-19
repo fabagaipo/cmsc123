@@ -1,5 +1,5 @@
 # cmsc123
-c and c++ codes
+c and c++ codes for cmsc 123 data structures
 
 Brief description of each lab exercise from 1-8 minus lab7 since it was cancelled
 
