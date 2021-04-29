@@ -1,7 +1,7 @@
 # cmsc123
 c and c++ codes for cmsc 123 data structures
 
-Brief description of each lab exercise from 1-8 minus lab7 since it was cancelled
+Brief description of each lab exercise from 1-8 minus lab6 and lab7 since they were cancelled
 
 Requirement 1:
 Create a doubly linked list in C++. Include the following functions:
